@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Quicksand&display=swap');
+
+* {
+    
+    font-family: 'Poppins';
+    margin-left: 20px;
+}
+
+body {
+    color: white;
+    background-color: #b67cfe;
+  }
+
+.buttons {
+    color:black;
+    float: right;
+}
+
+#checklist {
+  float: left;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  color: white;
+  margin-left: 40px;
+
+}
+
